@@ -1,0 +1,5 @@
+pyspark
+numpy
+matplotlib
+scipy
+scikit-learn
