@@ -15,6 +15,7 @@ See the [LICENSE](LICENSE) file for details.
 ### Credits
 
 This project is maintained by Homayoun Heidarzadeh (hhio618@gmail.com).
+
 Chris McCormick's python implementaion of DBSCAN, available @ [Here](https://github.com/chrisjmccormick/dbscan/blob/master/dbscan.py)
 
 ### Refrences<a name="ref1"></a>
