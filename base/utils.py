@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-This is a simple implementation of DBSCAN
+This is a simple implementation of DBSCAN intended to explain the algorithm.
+@author: Chris McCormick
+@address: https://github.com/chrisjmccormick/dbscan/blob/master/dbscan.py
 """
 from pyspark.mllib.linalg import Vectors
 
